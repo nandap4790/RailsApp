@@ -1,1 +1,1 @@
-This is the repository for the Assignment app for rails course.
+This is the repository for the Assignment app for rails course -udemy.
